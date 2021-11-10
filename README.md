@@ -1,5 +1,7 @@
 ## Running the TPC-H benchmark to compare MonetDB, SQLite, and Python 
-Based on an assignment for Masters course: [Advanced Data Management for Data Analysis](https://studiegids.universiteitleiden.nl/courses/98778/advanced-data-management-for-data-analysis) at Leiden University
+<sub>Based on an assignment for Masters course: [Advanced Data Management for Data Analysis](https://studiegids.universiteitleiden.nl/courses/98778/advanced-data-management-for-data-analysis) at Leiden University
+</sub>
+
 
 This repository contains the report written for, and queries used, in performing the TPC-H benchmark test with SF-1 and SF-3 using MonetDB and SQLite3 
 
