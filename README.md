@@ -10,7 +10,7 @@ This repository contains the report written for, and queries used, in performing
 
 
 
-Software Used
+### Software
 <ul>
 <li>MonetDB v11.37.11</li>
 <li>SQLite v3.33.0</li>
