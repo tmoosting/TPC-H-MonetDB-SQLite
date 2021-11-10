@@ -5,7 +5,7 @@ This repository contains the report written for, and queries used, in performing
 
 
 ### Report
-[Link]()
+[Link](https://drive.google.com/file/d/1arllWtuYo2SxQ4oUohwZAHNgE0z2xG04/view?usp=sharing)
 
 
 
